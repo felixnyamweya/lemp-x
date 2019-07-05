@@ -3,6 +3,8 @@
 <a href="https://github.com/felixnyamweya/lemp-x/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/felixnyamweya/lemp-x.svg?style=for-the-badge"></a>
 <a href="https://github.com/felixnyamweya/lemp-x/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/felixnyamweya/lemp-x.svg?style=for-the-badge"></a>
 <a href="https://github.com/felixnyamweya/lemp-x/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/felixnyamweya/lemp-x.svg?style=for-the-badge"></a>
+<a href="https://github.com/felixnyamweya/lemp-x/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/license/felixnyamweya/lemp-x.svg?style=for-the-badge"></a>
+
 
 
 
