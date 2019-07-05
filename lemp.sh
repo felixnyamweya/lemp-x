@@ -30,14 +30,14 @@ sudo apt-get -y install php7.2-fpm php-mysql
 
 #Move nginx conf file to enable php support on ngnix
 echo -e "\nMoving Nginx configuration file...\n"
-sudo mv site /etc/nginx/sites-available
+sudo cp default /etc/nginx/sites-available
 
 #Move php testing file
 echo -e "\nMoving php testing file...\n"
-sudo mv info.php /var/www/html/
+sudo cp info.php /var/www/html/
 
 sudo systemctl restart nginx.service
 
-echo -e "\n\nLemp stack installed successfully :)\n"
+echo -e "\n\nLEMP Stack installed successfully :)\n"
 
-echo -e "\n Open following link to check installed PHP configuration your_ip/info.php"
+echo -e "\n Open following link to check installed PHP configuration http://localhost/info.php"
